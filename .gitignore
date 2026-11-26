@@ -1,0 +1,6 @@
+data/
+vendor/
+node_modules/
+*.log
+.env*
+!example.env
